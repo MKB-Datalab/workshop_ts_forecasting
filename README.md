@@ -49,8 +49,11 @@ In the last notebook, **[03-Forecasting_with_Facebook_Prophet.ipynb ](https://gi
 ## Pre-requesits
 
 :white_check_mark: Knowledge of Python
+
 :white_check_mark: Dowload data in [data/google_trends](https://github.com/MKB-Datalab/workshop_ts_forecasting/tree/master/data/google_trends) and in [data/processed](https://github.com/MKB-Datalab/workshop_ts_forecasting/tree/master/data/processed)
+
 :white_check_mark: The following are the most important libraries we will be using and the versions that were used. Be sure you have them running:
+
     :wrench: numpy == 1.21.4
     * pandas == 1.2.4
     * matplotlib == 3.3.4

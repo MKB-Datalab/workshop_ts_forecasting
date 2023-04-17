@@ -54,7 +54,7 @@ In the last notebook, **[03-Forecasting_with_Facebook_Prophet.ipynb ](https://gi
 
 :white_check_mark: The following are the most important libraries we will be using and the versions that were used. Be sure you have them running:
 
-    :wrench: numpy == 1.21.4
+:wrench: numpy == 1.21.4
     * pandas == 1.2.4
     * matplotlib == 3.3.4
     * seaborn == 0.11.1

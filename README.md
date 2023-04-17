@@ -55,11 +55,16 @@ In the last notebook, **[03-Forecasting_with_Facebook_Prophet.ipynb ](https://gi
 :white_check_mark: The following are the most important libraries we will be using and the versions that were used. Be sure you have them running:
 
 :wrench: numpy == 1.21.4
-    * pandas == 1.2.4
-    * matplotlib == 3.3.4
-    * seaborn == 0.11.1
-    * statsmodels==0.12.2
-    * fbprophet==1.1.2
+
+:wrench: pandas == 1.2.4
+
+:wrench: matplotlib == 3.3.4
+
+:wrench: seaborn == 0.11.1
+
+:wrench: statsmodels==0.12.2
+
+:wrench: fbprophet==1.1.2
 
 ## :computer: Install requirements
 * The libraries above with versions are in so you can also install using: Install requirements using `pip install -r time_series_requirements.txt`.

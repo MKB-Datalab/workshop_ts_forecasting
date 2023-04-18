@@ -22,13 +22,15 @@ Furthermore, during this session we present some real datasets and some challeng
 
 In the pratical examples we used the following data:
 
-1. Data obtained from [Google Trends](https://trends.google.com/trends/) consisting on how many times the word `diet` was searched in US in the period from the week starting at `2016-03-27` till week starting at `2021-03-21`. This data can be found [here](https://github.com/MKB-Datalab/time-series-analysis-with-SARIMAX-and-Prophet/blob/master/data/raw/time-series/multiTimeline_diet.csv).
+1. Data obtained from [Google Trends](https://trends.google.com/trends/). This data can be found [here](https://github.com/MKB-Datalab/workshop_ts_forecasting/tree/master/data/google_trends).
 
-2. [global temperature dataset time series](https://datahub.io/core/global-temp#data). This dataset includes global monthly mean temperature anomalies in degrees Celsius from 1880 to the present. Data are included from the GISS Surface Temperature (GISTEMP) analysis and the global component of Climate at a Glance (GCAG). This data can be found [here](https://github.com/MKB-Datalab/time-series-analysis-with-SARIMAX-and-Prophet/blob/master/data/raw/time-series/monthly_csv.csv).
+2. The data referent to search of the word `diet` in USA was expanded and can be found [here](https://github.com/MKB-Datalab/workshop_ts_forecasting/blob/master/data/processed/diet_USA_2016_2023.csv).
 
-3. Data from Kaggle's competition [**Store Item Demand Forecasting Challenge**](https://www.kaggle.com/c/demand-forecasting-kernels-only) which consists of 5 years of store-item sales data split in a training dataset (train.csv) and a test dataset (test.csv). 
+3. [global temperature dataset time series](https://datahub.io/core/global-temp#data). This dataset includes global monthly mean temperature anomalies in degrees Celsius from 1880 to the present. Data are included from the GISS Surface Temperature (GISTEMP) analysis and the global component of Climate at a Glance (GCAG). This data can be found [here](https://github.com/MKB-Datalab/workshop_ts_forecasting/blob/master/data/monthly_csv.csv).
 
-More specifically, in our examples, we used a part of this data that can be found [here](https://github.com/MKB-Datalab/time-series-analysis-with-SARIMAX-and-Prophet/blob/master/data/processed/sales_store_2_item_28.csv).
+4. Data from Kaggle's competition [**Store Item Demand Forecasting Challenge**](https://www.kaggle.com/c/demand-forecasting-kernels-only) which consists of 5 years of store-item sales data split in a training dataset (train.csv) and a test dataset (test.csv). 
+
+More specifically, in our examples, we used a part of this data that can be found [here](https://github.com/MKB-Datalab/workshop_ts_forecasting/tree/master/data/processed).
 
 <!-- 
 
@@ -69,6 +71,7 @@ In the last notebook, **[03-Forecasting_with_Facebook_Prophet.ipynb ](https://gi
 ## :computer: Install requirements
 * The libraries above with versions are in so you can also install using: Install requirements using `pip install -r time_series_requirements.txt`.
   * Make sure you use Python 3 (I'm using 3.8.5).
+  * My version of Conda 4.10.1
   * You may want to use a virtual environment for this.
 
 -------------------------------------

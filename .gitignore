@@ -2,6 +2,7 @@ notebooks/.ipynb_checkpoints/
 notebooks/archive/
 notebooks/cycling.ipynb
 notebooks/Untitled.ipynb
+notebooks/SARIMAX.ipynb
 
 # data
 data/raw/

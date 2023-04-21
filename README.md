@@ -66,7 +66,11 @@ In the last notebook, **[03-Forecasting_with_Facebook_Prophet.ipynb ](https://gi
 
 :wrench: statsmodels==0.12.2
 
-:wrench: fbprophet==1.1.2
+:wrench: prophet==1.1.2
+
+:wrench: joblib==1.0.1
+
+:wrench: pmdarima==1.8.2
 
 ## :computer: Install requirements
 * The libraries above with versions are in so you can also install using: Install requirements using `pip install -r time_series_requirements.txt`.

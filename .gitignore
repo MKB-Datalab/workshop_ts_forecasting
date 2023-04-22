@@ -3,6 +3,8 @@ notebooks/archive/
 notebooks/cycling.ipynb
 notebooks/Untitled.ipynb
 notebooks/SARIMAX.ipynb
+notebooks/SARIMAX-copy1.ipynb
+notebooks/03-Forecasting_with_Facebook_Prophet_v160423-Copy1.ipynb
 
 # data
 data/raw/
@@ -25,5 +27,5 @@ notebooks/Starting_notebook.ipynb
 
 # Make available during workshop?
 notebooks/01-Intro_time_series_tutorial_v160423.ipynb
-notebooks/02-Forecasting_with_SARIMAX_v170423.ipynb
+notebooks/02-Forecasting_with_SARIMAX_v220423.ipynb
 notebooks/03-Forecasting_with_Facebook_Prophet_v160423.ipynb

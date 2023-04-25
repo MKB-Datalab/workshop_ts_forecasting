@@ -24,7 +24,7 @@ requirements_v170423.txt
 time_series_requirements_v170423.txt
 
 # Make available before workshop (same day)
-docs/
+# docs/
 # notebooks/Exercises_Time_Series_Forecasting-Part_01.ipynb
 # notebooks/Exercises_Time_Series_Forecasting-Part_02.ipynb
 # notebooks/Exercises_Time_Series_Forecasting-Part_03.ipynb

@@ -15,7 +15,7 @@ Example_prophet/
 
 model/
 
-docs/archive
+docs/archive/
 
 mydocs/
 
@@ -24,9 +24,9 @@ time_series_requirements_v170423.txt
 
 # Make available before workshop (same day)
 docs/
-notebooks/Exercises_Time_Series_Forecasting-Part_01.ipynb
-notebooks/Exercises_Time_Series_Forecasting-Part_02.ipynb
-notebooks/Exercises_Time_Series_Forecasting-Part_03.ipynb
+# notebooks/Exercises_Time_Series_Forecasting-Part_01.ipynb
+# notebooks/Exercises_Time_Series_Forecasting-Part_02.ipynb
+# notebooks/Exercises_Time_Series_Forecasting-Part_03.ipynb
 
 
 # Make available during workshop?

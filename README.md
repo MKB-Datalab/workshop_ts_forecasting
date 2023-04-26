@@ -32,9 +32,7 @@ In the pratical examples we used the following data:
 
 More specifically, in our examples, we used a part of this data that can be found [here](https://github.com/MKB-Datalab/workshop_ts_forecasting/tree/master/data/processed).
 
-
-
-# Material workshop
+## Material workshop
 
 * Workshop presentation: [time_series_v230423.pptx](https://github.com/MKB-Datalab/workshop_ts_forecasting/blob/master/docs/time_series_v230423.pptx)
 * Exercises covered during workshop and answers of those can be found at [notebooks/Exercises](https://github.com/MKB-Datalab/workshop_ts_forecasting/tree/master/notebooks/Exercises)

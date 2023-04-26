@@ -41,7 +41,7 @@ The following notebooks present more details about what we covered together.
 
 In **[01-Intro_time_series_tutorial_v220423.ipynb](https://github.com/MKB-Datalab/workshop_ts_forecasting/blob/master/notebooks/01-Intro_time_series_tutorial_v220423.ipynb)** you learn about time series properties and how to identify them using both statistical and graphical tools.
 
-Next, in **[02-Forecasting_with_SARIMAX.ipynb_v220423](https://github.com/MKB-Datalab/workshop_ts_forecasting/blob/master/notebooks/02-Forecasting_with_SARIMAX.ipynb_v220423)** you are introduced to ARIMA models and its variants. There we apply SARIMA model on a [store-item sales data](https://www.kaggle.com/c/demand-forecasting-kernels-only) and forecast the sales 3 months in the future.
+Next, in **[02-Forecasting_with_SARIMAX_v220423.ipynb]https://github.com/MKB-Datalab/workshop_ts_forecasting/blob/master/notebooks/02-Forecasting_with_SARIMAX_v220423.ipynb)** you are introduced to ARIMA models and its variants. There we apply SARIMA model on a [store-item sales data](https://www.kaggle.com/c/demand-forecasting-kernels-only) and forecast the sales 3 months in the future.
 
 In the last notebook, **[03-Forecasting_with_Facebook_Prophet_v220423.ipynb](https://github.com/MKB-Datalab/workshop_ts_forecasting/blob/master/notebooks/03-Forecasting_with_Facebook_Prophet_v220423.ipynb)**, we introduce Facebook Prophet. We compare it with other models such as SARIMAX and apply it to the same dataset. We finalize by comparing the performance of all models obtained (SARIMA and Prophet models).
 

@@ -39,7 +39,7 @@ More specifically, in our examples, we used a part of this data that can be foun
 
 The following notebooks present more details about what we covered together.
 
-In **[01-Intro_time_series_tutorial_v220423.ipynb](https://https://github.com/MKB-Datalab/workshop_ts_forecasting/blob/master/notebooks/01-Intro_time_series_tutorial_v220423.ipynb)** you learn about time series properties and how to identify them using both statistical and graphical tools.
+In **[01-Intro_time_series_tutorial_v220423.ipynb](https://github.com/MKB-Datalab/workshop_ts_forecasting/blob/master/notebooks/01-Intro_time_series_tutorial_v220423.ipynb)** you learn about time series properties and how to identify them using both statistical and graphical tools.
 
 Next, in **[02-Forecasting_with_SARIMAX.ipynb_v220423](https://github.com/MKB-Datalab/workshop_ts_forecasting/blob/master/notebooks/02-Forecasting_with_SARIMAX.ipynb_v220423)** you are introduced to ARIMA models and its variants. There we apply SARIMA model on a [store-item sales data](https://www.kaggle.com/c/demand-forecasting-kernels-only) and forecast the sales 3 months in the future.
 
